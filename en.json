@@ -1,0 +1,12 @@
+{
+    "key_one": "Value 1",
+    "key_two": "Value 2",
+    "key_3": {
+        "one": "Plural One",
+        "other": "Plural Other"
+    },
+    "nested_key": {
+        "key_4": "Nested key 1",
+        "key_5": "Nested key 2"
+    }
+}
