@@ -1,6 +1,7 @@
 {
     "key_one": "Value 1",
     "key_two": "Value 2",
+    "key_three": "Value 3",
     "key_3": {
         "one": "Plural One",
         "other": "Plural Other"
